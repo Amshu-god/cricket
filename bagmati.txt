@@ -1,0 +1,11 @@
+Santosh Shrestha,Opener,25,9
+Pradeep Maharjan,Opener,25,8
+Roshan Tamang,Opener,25,9
+Nabin Basnet,Opener,26,10
+Nirajan Shrestha,Opener,25,12
+Ujjwal Dangol,All-Rounder,25,21
+Prakash Maharjan,All-Rounder,26,20
+Raju Lama,Bowler,14,26
+Bijay Shrestha,Bowler,15,23
+Milan Tamang,Bowler,17,21
+Anish Khadka,Bowler,16,22

@@ -1,0 +1,11 @@
+Ramesh Yadav,Opener,42,18
+Suresh Mandal,Opener,43,16
+Rajiv Sah,Opener,46,14
+Dinesh Jha,Opener,47,12
+Anil Chaudhary,Opener,46,15
+Mukesh Yadav,All-Rounder,35,38
+Lalit Sahani,All-Rounder,36,38
+Raju Mandal,Bowler,13,43
+Manoj Thakur,Bowler,13,44
+Vinod Chaudhary,Bowler,14,46
+Arjun Yadav,Bowler,16,47

@@ -1,0 +1,11 @@
+Manoj Bista,Opener,16,4
+Sushil Saud,Opener,12,14
+Dinesh Bohora,Opener,11,17
+Arjun Bista,Opener,10,18
+Bijay Chand,Opener,9,19
+Ramesh Dhami,All-Rounder,7,24
+Naresh Bam,All-Rounder,3,26
+Kamal Joshi,Bowler,24,8
+Lalit Rawal,Bowler,26,11
+Rajendra Kathayat,Bowler,26,11
+Kishor Bhatta,Bowler,23,9

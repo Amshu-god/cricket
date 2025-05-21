@@ -1,0 +1,11 @@
+Prakash Rai,Opener,45,22
+Bikash Limbu,Opener,44,21
+Suman Tamang,Opener,43,21
+Anil Subba,Opener,43,22
+Deepak Khadka,Opener,45,23
+Roshan Rai,All-Rounder,30,45
+Nirajan Limbu,All-Rounder,31,44
+Manish Subba,Bowler,24,43
+Bijay Tamang,Bowler,23,42
+Rajan Thapa,Bowler,21,41
+Milan Rai,Bowler,19,40

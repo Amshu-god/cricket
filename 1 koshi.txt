@@ -1,0 +1,11 @@
+Dambar Shahi,Opener,30,17
+Tek Bahadur Rawat,Opener,32,19
+Ganesh BK,Opener,34,19
+Mahesh Rokaya,Opener,35,17
+Surya Oli,Opener,34,18
+Ramesh Shahi,All-Rounder,24,29
+Nanda BK,All-Rounder,23,26
+Bijay Bohora,Bowler,26,38
+Dilip Malla,Bowler,24,36
+Ishwor Saud,Bowler,21,36
+Kiran Rokaya,Bowler,20,37

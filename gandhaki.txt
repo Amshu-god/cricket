@@ -1,0 +1,11 @@
+Rajan Gurung,Opener,33,12
+Bikram Thapa,Opener,36,16
+Kishor Rana,Opener,38,20
+Sandeep Gurung,Opener,35,21
+Milan Gurung,Opener,40,21
+Anil Thapa,All-Rounder,39,35
+Pawan Kunwar,All-Rounder,38,34
+Binod Rana,Bowler,20,40
+Deepak Gurung,Bowler,21,38
+Ritesh Thapa,Bowler,20,39
+Prem Ale,Bowler,23,40

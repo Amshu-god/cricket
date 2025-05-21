@@ -1,0 +1,11 @@
+Ramesh Chaudhary,Opener,19,6
+Binod Tharu,Opener,17,3
+Rajan Karki,Opener,17,12
+Milan GC,Opener,15,10
+Prakash Tharu,Opener,16,14
+Suraj BK,All-Rounder,17,21
+Suman Thapa,All-Rounder,14,19
+Nabin Chaudhary,Bowler,16,16
+Ram BK,Bowler,17,15
+Kiran KC,Bowler,17,14
+Bikash Tharu,Bowler,13,17
